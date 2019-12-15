@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 // https://www.codechef.com/problems/HS08TEST
-class main {
+public class ATMProblemCodeHS08TEST {
 	public static void main(String[] args) {
 
 		// Taking two inputs
